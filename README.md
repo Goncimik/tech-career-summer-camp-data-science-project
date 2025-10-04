@@ -11,5 +11,10 @@ Bu repo, *Tech Career'in Summer Camp: Introduction to Data Science* kapsamında 
 - Week 03 Project
 - Week 04 Project
   
-- 🏆 Bitirme Projesi (Data Science)
-- 🏆 Bitirme Projesi (Data Visualization)
+🏆 Bitirme Projesi (Data Science)
+🏆 Bitirme Projesi (Data Visualization)
+
+## 🔗 Kaggle Notebook  
+## Kaggle Notebook
+Bu projenin Kaggle notebook bağlantısı:  
+
