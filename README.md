@@ -17,5 +17,8 @@ Bu repo, *Tech Career'in Summer Camp: Introduction to Data Science* kapsamında 
 
 ## 🔗 Kaggle Notebook  
 ## Kaggle Notebook
-Bu projenin Kaggle notebook bağlantısı:  
+Bu projenin Kaggle notebook bağlantısı:
+
+https://www.kaggle.com/code/goncacomertgmailcom/techcareer-summer-camp-data-science-project
+https://www.kaggle.com/code/goncacomertgmailcom/techcareer-summer-camp-data-visualization-project
 
