@@ -1,6 +1,6 @@
 # Tech Career
 # Summer Camp: Introduction to Data Science
-# Eğitmen : Ömer Faruk Doğan
+
 
 Bu repo, *Tech Career'in Summer Camp: Introduction to Data Science* kapsamında yapılan python projelerini içerir.
 
